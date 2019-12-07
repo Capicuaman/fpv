@@ -1,3 +1,5 @@
+# diff all
+
 # version
 # Betaflight / MATEKF411RX (M41R) 4.0.0 Apr 11 2019 / 07:25:57 (9ad2cc844) MSP API: 1.41
 
@@ -61,7 +63,7 @@ aux 1 1 1 900 1200 0 0
 aux 2 2 1 1375 1650 0 0
 aux 3 13 2 1700 2100 0 0
 aux 4 35 3 1700 2100 0 0
-aux 5 47 255 1700 2100 0 0
+aux 5 47 0 1700 2100 0 0
 
 # adjrange
 
